@@ -1,0 +1,38 @@
+body {
+	background-image: url(mages/Image.png) ;
+    background-size: cover;
+	background-attachment: fixed;
+}
+.content {
+	background: white;
+	width: 50%;
+	padding: 30px;
+	margin: 0px auto;
+	font-family: calibri;
+}
+
+p {
+	font-size: 25px;
+	color: black;
+}
+
+.menu  {
+	background: white;
+	width: 55%;
+	padding: 0px;
+	margin: 10px auto;
+	font-family: calibri;
+}
+
+.menu ul {
+
+	display: flex;
+	padding: 0px;
+	justify-content: space-around;
+	list-style-type: none;
+	border-radius: 40px;
+}
+
+.menu li {
+	margin: 15px;
+}
